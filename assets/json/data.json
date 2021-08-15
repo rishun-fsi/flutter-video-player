@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+  },
+  {
+    "id": "2",
+    "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+  },
+  {
+    "id": "3",
+    "url": "https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8"
+  },
+  {
+    "id": "4",
+    "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8"
+  },
+  {
+    "id": "5",
+    "url": "https://storage.googleapis.com/wvmedia/clear/h264/tears/tears_hd.mpd"
+  }
+]
